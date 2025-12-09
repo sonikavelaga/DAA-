@@ -1,0 +1,31 @@
+===== HUFFMAN CODING OUTPUT =====
+
+Input Text:
+HELLO
+
+Character Frequencies:
+Char	Freq
+E	1
+H	1
+L	2
+O	1
+
+Huffman Codes:
+Char	Code
+E	110
+H	10
+L	0
+O	111
+
+Encoded Text:
+1011000111
+
+Decoded Text:
+HELLO
+
+Approximate Compression Info:
+Original size  : 40 bits
+Compressed size: 10 bits
+Compression ratio: 25.00% of original
+
+===== END OF OUTPUT =====
